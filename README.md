@@ -1,3 +1,6 @@
+This project is currently in modification based on Slim UNETR project
+
+Slim UNETR : https://github.com/aigzhusmart/Slim-UNETR
 # Network Architecture
 ![image](https://github.com/user-attachments/assets/f96934d6-52a5-4624-9bd0-73e5ba608102)
 # Data Description
